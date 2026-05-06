@@ -10,7 +10,7 @@ import (
 	sdk "github.com/envoyproxy/envoy/source/extensions/dynamic_modules/sdk/go"
 
 	"github.com/dio/jisr"
-	_ "github.com/dio/boe-hello" // registers handlers via init()
+	_ "github.com/dio/jisr-hello" // registers handlers via init()
 )
 
 func init() {

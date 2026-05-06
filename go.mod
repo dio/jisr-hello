@@ -1,4 +1,4 @@
-module github.com/dio/boe-hello
+module github.com/dio/jisr-hello
 
 go 1.26.2
 
